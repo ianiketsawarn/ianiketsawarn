@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
+![MasterHead](https://cdn.dribbble.com/userupload/3240898/file/original-4b73da325504d23a304442ce4c561c38.gif) 
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A Passionate Guy who is always eager to learn new things !!</h3>
 <img align="right" alt="Coding" width="400" src=https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianiketsawarn&show_icons=true&locale=en" alt="ianiketsawarn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianiketsawarn&" alt="ianiketsawarn" /></p>
-](https://cdn.dribbble.com/userupload/3240898/file/original-4b73da325504d23a304442ce4c561c38.gif)
