@@ -5,9 +5,12 @@
 <h3 align="center">A Passionate Guy who is always eager to learn new things !!</h3>
 <img align="right" alt="Coding" width="400" src=https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianiketsawarn&label=Profile%20views&color=0e75b6&style=flat" alt="ianiketsawarn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianiketsawarn" alt="ianiketsawarn" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/sawarnaniket/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sawarnaniket/?logo=twitter&style=for-the-badge" alt="https://twitter.com/sawarnaniket/" /></a> </p>
 
 - 🌱 I’m currently learning **DSA,WEB DEVELOPMENT,JS,NLP**
 
@@ -15,7 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/sawarnaniket/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sawarnaniket/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniketsawarn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniketsawarn/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008098367504&mibextid=dgkdo6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008098367504&mibextid=dgkdo6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianiketsawarn&show_icons=true&locale=en" alt="ianiketsawarn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianiketsawarn&" alt="ianiketsawarn" /></p>
+
