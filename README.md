@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6blCz-cLVwdnwRuIf_qtFIBM6Xr7xyVzrdFxIUGhn_A&s)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6blCz-cLVwdnwRuIf_qtFIBM6Xr7xyVzrdFxIUGhn_A&s)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A Passionate Guy who is always eager to learn new things !!</h3>
 <img align="right" alt="Coding" width="400" src=https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
